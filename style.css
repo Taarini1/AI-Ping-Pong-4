@@ -1,0 +1,19 @@
+body{
+    background-image: linear-gradient(red , blue , yellow);
+}
+
+.footer{
+     position: fixed; 
+     bottom: 0; 
+     color:azure;
+      width:100%; 
+      background-color: darkslategrey;
+       height:30px; 
+       border-radius:10px;
+        font-size: 25px; 
+        font-family:cursive; 
+    }
+
+    canvas{
+        border-color: brown;
+    }
